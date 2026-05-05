@@ -31,6 +31,6 @@
 ### Запуск
 
 ```bash
-git clone https://github.com/AlievaAsiat/book_tracker.git
+git clone https://github.com/AlievMarat05/book_tracker.git
 cd book_tracker
 python book_tracker.py
